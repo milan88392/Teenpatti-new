@@ -1,1 +1,1 @@
-# Teenpatti-new
+index.html
